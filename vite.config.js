@@ -7,5 +7,5 @@ import react from "@vitejs/plugin-react";
 // Si tu utilises un domaine perso ou Vercel/Netlify, laisse base: "/".
 export default defineConfig({
   plugins: [react()],
-  base: "/semi-paris-tracker/",
+  base: "/semi-paris-tracker-/",
 });
